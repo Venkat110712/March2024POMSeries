@@ -18,7 +18,8 @@ public class OptionsManager {
 
 	public ChromeOptions getChromeOptions() {
 		co = new ChromeOptions();
-		co.addExtensions(new File("/Users/naveenautomationlabs/Downloads/extension_1_3_4_0.crx"));
+		co.addArguments("--remote-allow-origins=*");
+		//co.addExtensions(new File("/Users/naveenautomationlabs/Downloads/extension_1_3_4_0.crx"));
 
 		if (Boolean.parseBoolean(prop.getProperty("remote"))) {
 			co.setCapability("enableVNC", true);
@@ -36,6 +37,7 @@ public class OptionsManager {
 
 	public FirefoxOptions getFirefoxOptions() {
 		fo = new FirefoxOptions();
+		fo.addArguments("--remote-allow-origins=*");
 		if (Boolean.parseBoolean(prop.getProperty("remote"))) {
 			fo.setCapability("enableVNC", true);
 			fo.setBrowserVersion(prop.getProperty("browserversion"));

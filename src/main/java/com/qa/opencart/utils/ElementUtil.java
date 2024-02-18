@@ -159,7 +159,7 @@ public class ElementUtil {
 		List<String> valuesList = new ArrayList<String>();
 		Select select = new Select(getElement(locator));
 		List<WebElement> optionsList = select.getOptions();
-
+		
 		for (WebElement e : optionsList) {
 			String text = e.getText();
 			valuesList.add(text);
