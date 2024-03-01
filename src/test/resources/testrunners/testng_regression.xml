@@ -14,24 +14,24 @@
 	</listeners>
 
 	<test name="Open Cart Login Page Test_chrome_90">
-		<parameter name="browser" value="chrome" />
-		<parameter name="browserversion" value="90.0" />
+		<parameter name="browser" value="firfox" />
+		<parameter name="browserversion" value="92.0.1" />
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 		</classes>
 	</test>
 
 	<test name="Open Cart Login Page Test_chrome_100">
-		<parameter name="browser" value="chrome" />
-		<parameter name="browserversion" value="100.0" />
+		<parameter name="browser" value="firefox" />
+		<parameter name="browserversion" value="92.0.1" />
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 		</classes>
 	</test>
 
 	<test name="Open Cart Accounts Page Test_firefox_83">
-		<parameter name="browser" value="chrome" />
-		<parameter name="browserversion" value="100.0" />
+		<parameter name="browser" value="firefox" />
+		<parameter name="browserversion" value="92.0.1" />
 		<classes>
 			<class name="com.qa.opencart.tests.AccountsPageTest" />
 		</classes>
@@ -39,7 +39,7 @@
 
 	<test name="Open Cart Product Page Test_chrome_100">
 		<parameter name="browser" value="chrome" />
-		<parameter name="browserversion" value="100.0" />
+		<parameter name="browserversion" value="94.0.4606.61" />
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoTest" />
 		</classes>
@@ -48,7 +48,7 @@
 
 	<test name="Open Cart Register Page Test_chrome_90">
 		<parameter name="browser" value="chrome" />
-		<parameter name="browserversion" value="90.0" />
+		<parameter name="browserversion" value="94.0.4606.61" />
 		<classes>
 			<class name="com.qa.opencart.tests.RegisterTest" />
 		</classes>

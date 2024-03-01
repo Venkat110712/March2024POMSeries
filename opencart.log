@@ -1,260 +1,260 @@
-15 Aug 2023 15:47:16,933 TestNG-tests-4 - Running tests on environment: null
-15 Aug 2023 15:47:16,933 TestNG-tests-1 - Running tests on environment: null
-15 Aug 2023 15:47:16,934 TestNG-tests-4 - No env is given ..... hence running it on QA
-15 Aug 2023 15:47:16,934 TestNG-tests-1 - No env is given ..... hence running it on QA
-15 Aug 2023 15:47:16,935 TestNG-tests-4 - browser name is : chrome
-15 Aug 2023 15:47:16,933 TestNG-tests-2 - Running tests on environment: null
-15 Aug 2023 15:47:16,935 TestNG-tests-1 - browser name is : chrome
-15 Aug 2023 15:47:16,936 TestNG-tests-2 - No env is given ..... hence running it on QA
-15 Aug 2023 15:47:16,938 TestNG-tests-2 - browser name is : chrome
-15 Aug 2023 15:47:17,339 TestNG-tests-3 - Running tests on environment: null
-15 Aug 2023 15:47:17,339 TestNG-tests-3 - No env is given ..... hence running it on QA
-15 Aug 2023 15:47:17,340 TestNG-tests-3 - browser name is : chrome
-15 Aug 2023 15:47:31,684 TestNG-tests-4 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:31,686 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa_en_AU.ftl"): Not found
-15 Aug 2023 15:47:31,690 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
-15 Aug 2023 15:47:31,693 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
-15 Aug 2023 15:47:31,693 TestNG-tests-4 - Loading template for "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
-15 Aug 2023 15:47:32,094 TestNG-tests-4 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,094 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,095 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
-15 Aug 2023 15:47:32,095 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
-15 Aug 2023 15:47:32,096 TestNG-tests-4 - Loading template for "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
-15 Aug 2023 15:47:32,585 TestNG-tests-4 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,585 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,586 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
-15 Aug 2023 15:47:32,587 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
-15 Aug 2023 15:47:32,587 TestNG-tests-4 - Loading template for "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
-15 Aug 2023 15:47:32,598 TestNG-tests-4 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,599 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,600 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
-15 Aug 2023 15:47:32,600 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
-15 Aug 2023 15:47:32,600 TestNG-tests-4 - Loading template for "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
-15 Aug 2023 15:47:32,604 TestNG-tests-4 - Couldn't find template in cache for "spark/macros/log.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,604 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,605 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
-15 Aug 2023 15:47:32,606 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
-15 Aug 2023 15:47:32,606 TestNG-tests-4 - Loading template for "spark/macros/log.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
-15 Aug 2023 15:47:32,609 TestNG-tests-4 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,609 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,610 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
-15 Aug 2023 15:47:32,610 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
-15 Aug 2023 15:47:32,610 TestNG-tests-4 - Loading template for "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
-15 Aug 2023 15:47:32,615 TestNG-tests-4 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,616 TestNG-tests-4 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,616 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,617 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
-15 Aug 2023 15:47:32,617 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
-15 Aug 2023 15:47:32,617 TestNG-tests-4 - Loading template for "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
-15 Aug 2023 15:47:32,631 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/head.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,632 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,633 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
-15 Aug 2023 15:47:32,633 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
-15 Aug 2023 15:47:32,633 TestNG-tests-4 - Loading template for "spark/partials/head.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
-15 Aug 2023 15:47:32,641 TestNG-tests-4 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,641 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,642 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
-15 Aug 2023 15:47:32,643 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
-15 Aug 2023 15:47:32,643 TestNG-tests-4 - Loading template for "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
-15 Aug 2023 15:47:32,644 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,645 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,646 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
-15 Aug 2023 15:47:32,646 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
-15 Aug 2023 15:47:32,646 TestNG-tests-4 - Loading template for "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
-15 Aug 2023 15:47:32,663 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,664 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,665 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
-15 Aug 2023 15:47:32,665 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
-15 Aug 2023 15:47:32,665 TestNG-tests-4 - Loading template for "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
-15 Aug 2023 15:47:32,692 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/test.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,692 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,693 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
-15 Aug 2023 15:47:32,693 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
-15 Aug 2023 15:47:32,694 TestNG-tests-4 - Loading template for "spark/partials/test.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
-15 Aug 2023 15:47:32,716 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,717 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,717 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
-15 Aug 2023 15:47:32,718 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
-15 Aug 2023 15:47:32,718 TestNG-tests-4 - Loading template for "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
-15 Aug 2023 15:47:32,722 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/category.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,722 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,723 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
-15 Aug 2023 15:47:32,724 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
-15 Aug 2023 15:47:32,724 TestNG-tests-4 - Loading template for "spark/partials/category.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
-15 Aug 2023 15:47:32,725 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/device.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,726 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,727 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
-15 Aug 2023 15:47:32,727 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
-15 Aug 2023 15:47:32,728 TestNG-tests-4 - Loading template for "spark/partials/device.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
-15 Aug 2023 15:47:32,730 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/author.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,730 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,731 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
-15 Aug 2023 15:47:32,731 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
-15 Aug 2023 15:47:32,732 TestNG-tests-4 - Loading template for "spark/partials/author.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
-15 Aug 2023 15:47:32,733 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/log.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,734 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,734 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
-15 Aug 2023 15:47:32,735 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
-15 Aug 2023 15:47:32,735 TestNG-tests-4 - Loading template for "spark/partials/log.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
-15 Aug 2023 15:47:32,737 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,738 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,739 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
-15 Aug 2023 15:47:32,739 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
-15 Aug 2023 15:47:32,739 TestNG-tests-4 - Loading template for "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
-15 Aug 2023 15:47:32,807 TestNG-tests-4 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,808 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,808 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
-15 Aug 2023 15:47:32,809 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
-15 Aug 2023 15:47:32,809 TestNG-tests-4 - Loading template for "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
-15 Aug 2023 15:47:32,810 TestNG-tests-4 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed); will try to load it.
-15 Aug 2023 15:47:32,811 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_AU.ftl"): Not found
-15 Aug 2023 15:47:32,812 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
-15 Aug 2023 15:47:32,813 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
-15 Aug 2023 15:47:32,813 TestNG-tests-4 - Loading template for "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
-15 Aug 2023 15:47:32,820 TestNG-tests-2 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,820 TestNG-tests-2 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,821 TestNG-tests-2 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,822 TestNG-tests-2 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,823 TestNG-tests-2 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,823 TestNG-tests-2 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,826 TestNG-tests-2 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,826 TestNG-tests-2 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,827 TestNG-tests-2 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,827 TestNG-tests-2 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,827 TestNG-tests-2 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,827 TestNG-tests-2 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,827 TestNG-tests-2 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,834 TestNG-tests-2 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,834 TestNG-tests-2 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,837 TestNG-tests-1 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,837 TestNG-tests-1 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,838 TestNG-tests-1 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,839 TestNG-tests-1 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,839 TestNG-tests-1 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,839 TestNG-tests-1 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,839 TestNG-tests-1 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,839 TestNG-tests-1 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,839 TestNG-tests-1 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,840 TestNG-tests-1 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,840 TestNG-tests-1 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,840 TestNG-tests-1 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,843 TestNG-tests-1 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,844 TestNG-tests-1 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,844 TestNG-tests-1 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,845 TestNG-tests-1 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,845 TestNG-tests-1 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,845 TestNG-tests-1 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,846 TestNG-tests-1 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,849 TestNG-tests-1 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,849 TestNG-tests-1 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:32,852 TestNG-tests-4 - Running tests on environment: null
-15 Aug 2023 15:47:32,852 TestNG-tests-4 - No env is given ..... hence running it on QA
-15 Aug 2023 15:47:32,853 TestNG-tests-4 - browser name is : chrome
-15 Aug 2023 15:47:33,486 TestNG-tests-3 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,486 TestNG-tests-3 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,488 TestNG-tests-3 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,488 TestNG-tests-3 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,489 TestNG-tests-3 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,489 TestNG-tests-3 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,489 TestNG-tests-3 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,489 TestNG-tests-3 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,489 TestNG-tests-3 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,490 TestNG-tests-3 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,490 TestNG-tests-3 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,491 TestNG-tests-3 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,493 TestNG-tests-3 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,494 TestNG-tests-3 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,495 TestNG-tests-3 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,495 TestNG-tests-3 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,495 TestNG-tests-3 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,495 TestNG-tests-3 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,495 TestNG-tests-3 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,499 TestNG-tests-3 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:33,499 TestNG-tests-3 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:42,993 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa_en_AU.ftl"): Not found
-15 Aug 2023 15:47:42,994 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
-15 Aug 2023 15:47:42,995 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
-15 Aug 2023 15:47:42,995 TestNG-tests-4 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl hasn't changed.
-15 Aug 2023 15:47:42,996 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables_en_AU.ftl"): Not found
-15 Aug 2023 15:47:42,997 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
-15 Aug 2023 15:47:42,997 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
-15 Aug 2023 15:47:42,997 TestNG-tests-4 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl hasn't changed.
-15 Aug 2023 15:47:42,999 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros_en_AU.ftl"): Not found
-15 Aug 2023 15:47:42,999 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
-15 Aug 2023 15:47:43,000 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
-15 Aug 2023 15:47:43,000 TestNG-tests-4 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl hasn't changed.
-15 Aug 2023 15:47:43,001 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,001 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
-15 Aug 2023 15:47:43,002 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
-15 Aug 2023 15:47:43,002 TestNG-tests-4 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl hasn't changed.
-15 Aug 2023 15:47:43,003 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,004 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
-15 Aug 2023 15:47:43,004 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
-15 Aug 2023 15:47:43,004 TestNG-tests-4 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl hasn't changed.
-15 Aug 2023 15:47:43,005 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,006 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
-15 Aug 2023 15:47:43,006 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
-15 Aug 2023 15:47:43,006 TestNG-tests-4 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl hasn't changed.
-15 Aug 2023 15:47:43,006 TestNG-tests-4 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
-15 Aug 2023 15:47:43,007 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,007 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
-15 Aug 2023 15:47:43,008 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
-15 Aug 2023 15:47:43,008 TestNG-tests-4 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl hasn't changed.
-15 Aug 2023 15:47:43,009 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,009 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
-15 Aug 2023 15:47:43,009 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
-15 Aug 2023 15:47:43,010 TestNG-tests-4 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl hasn't changed.
-15 Aug 2023 15:47:43,011 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,011 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
-15 Aug 2023 15:47:43,012 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
-15 Aug 2023 15:47:43,012 TestNG-tests-4 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl hasn't changed.
-15 Aug 2023 15:47:43,013 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,013 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
-15 Aug 2023 15:47:43,014 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
-15 Aug 2023 15:47:43,014 TestNG-tests-4 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl hasn't changed.
-15 Aug 2023 15:47:43,015 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,016 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
-15 Aug 2023 15:47:43,016 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
-15 Aug 2023 15:47:43,016 TestNG-tests-4 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl hasn't changed.
-15 Aug 2023 15:47:43,018 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,019 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
-15 Aug 2023 15:47:43,019 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
-15 Aug 2023 15:47:43,019 TestNG-tests-4 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl hasn't changed.
-15 Aug 2023 15:47:43,020 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,021 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
-15 Aug 2023 15:47:43,022 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
-15 Aug 2023 15:47:43,022 TestNG-tests-4 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl hasn't changed.
-15 Aug 2023 15:47:43,023 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,023 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
-15 Aug 2023 15:47:43,024 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
-15 Aug 2023 15:47:43,024 TestNG-tests-4 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl hasn't changed.
-15 Aug 2023 15:47:43,025 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,026 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
-15 Aug 2023 15:47:43,026 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
-15 Aug 2023 15:47:43,026 TestNG-tests-4 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl hasn't changed.
-15 Aug 2023 15:47:43,028 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,028 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
-15 Aug 2023 15:47:43,028 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
-15 Aug 2023 15:47:43,029 TestNG-tests-4 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl hasn't changed.
-15 Aug 2023 15:47:43,030 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,030 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
-15 Aug 2023 15:47:43,031 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
-15 Aug 2023 15:47:43,031 TestNG-tests-4 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl hasn't changed.
-15 Aug 2023 15:47:43,032 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,032 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
-15 Aug 2023 15:47:43,033 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
-15 Aug 2023 15:47:43,033 TestNG-tests-4 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl hasn't changed.
-15 Aug 2023 15:47:43,035 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,036 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
-15 Aug 2023 15:47:43,036 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
-15 Aug 2023 15:47:43,037 TestNG-tests-4 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl hasn't changed.
-15 Aug 2023 15:47:43,038 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_AU.ftl"): Not found
-15 Aug 2023 15:47:43,038 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
-15 Aug 2023 15:47:43,038 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
-15 Aug 2023 15:47:43,038 TestNG-tests-4 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl hasn't changed.
+01 Mar 2024 13:56:54,855 TestNG-tests-1 - Running tests on environment: null
+01 Mar 2024 13:56:54,855 TestNG-tests-4 - Running tests on environment: null
+01 Mar 2024 13:56:54,856 TestNG-tests-4 - No env is given ..... hence running it on QA
+01 Mar 2024 13:56:54,857 TestNG-tests-4 - browser name is : chrome
+01 Mar 2024 13:56:54,855 TestNG-tests-2 - Running tests on environment: null
+01 Mar 2024 13:56:54,856 TestNG-tests-1 - No env is given ..... hence running it on QA
+01 Mar 2024 13:56:54,862 TestNG-tests-1 - browser name is : firfox
+01 Mar 2024 13:56:54,861 TestNG-tests-2 - No env is given ..... hence running it on QA
+01 Mar 2024 13:56:54,878 TestNG-tests-2 - browser name is : firefox
+01 Mar 2024 13:56:55,457 TestNG-tests-3 - Running tests on environment: null
+01 Mar 2024 13:56:55,457 TestNG-tests-3 - No env is given ..... hence running it on QA
+01 Mar 2024 13:56:55,458 TestNG-tests-3 - browser name is : firefox
+01 Mar 2024 13:56:55,778 TestNG-tests-1 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:55,780 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/spark.spa_en_AU.ftl"): Not found
+01 Mar 2024 13:56:55,785 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+01 Mar 2024 13:56:55,789 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+01 Mar 2024 13:56:55,789 TestNG-tests-1 - Loading template for "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+01 Mar 2024 13:56:56,306 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:56,307 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-variables_en_AU.ftl"): Not found
+01 Mar 2024 13:56:56,307 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+01 Mar 2024 13:56:56,308 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+01 Mar 2024 13:56:56,308 TestNG-tests-1 - Loading template for "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+01 Mar 2024 13:56:57,000 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,000 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-macros_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,002 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+01 Mar 2024 13:56:57,002 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+01 Mar 2024 13:56:57,002 TestNG-tests-1 - Loading template for "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+01 Mar 2024 13:56:57,015 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,016 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,022 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+01 Mar 2024 13:56:57,024 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+01 Mar 2024 13:56:57,024 TestNG-tests-1 - Loading template for "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+01 Mar 2024 13:56:57,029 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/log.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,030 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/log_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,031 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+01 Mar 2024 13:56:57,031 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+01 Mar 2024 13:56:57,032 TestNG-tests-1 - Loading template for "spark/macros/log.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+01 Mar 2024 13:56:57,036 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,036 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,037 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+01 Mar 2024 13:56:57,038 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+01 Mar 2024 13:56:57,038 TestNG-tests-1 - Loading template for "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+01 Mar 2024 13:56:57,046 TestNG-tests-1 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:56:57,046 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,047 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,048 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+01 Mar 2024 13:56:57,048 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+01 Mar 2024 13:56:57,048 TestNG-tests-1 - Loading template for "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+01 Mar 2024 13:56:57,090 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/head.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,090 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/head_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,091 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+01 Mar 2024 13:56:57,091 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+01 Mar 2024 13:56:57,092 TestNG-tests-1 - Loading template for "spark/partials/head.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+01 Mar 2024 13:56:57,115 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,116 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,117 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+01 Mar 2024 13:56:57,117 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+01 Mar 2024 13:56:57,117 TestNG-tests-1 - Loading template for "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+01 Mar 2024 13:56:57,120 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,120 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,121 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+01 Mar 2024 13:56:57,122 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+01 Mar 2024 13:56:57,122 TestNG-tests-1 - Loading template for "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+01 Mar 2024 13:56:57,155 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,156 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,157 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+01 Mar 2024 13:56:57,157 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+01 Mar 2024 13:56:57,157 TestNG-tests-1 - Loading template for "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+01 Mar 2024 13:56:57,219 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/test.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,220 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/test_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,220 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+01 Mar 2024 13:56:57,221 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+01 Mar 2024 13:56:57,221 TestNG-tests-1 - Loading template for "spark/partials/test.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+01 Mar 2024 13:56:57,256 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,257 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/exception_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,257 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+01 Mar 2024 13:56:57,258 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+01 Mar 2024 13:56:57,258 TestNG-tests-1 - Loading template for "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+01 Mar 2024 13:56:57,263 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/category.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,264 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/category_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,265 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+01 Mar 2024 13:56:57,266 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+01 Mar 2024 13:56:57,266 TestNG-tests-1 - Loading template for "spark/partials/category.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+01 Mar 2024 13:56:57,268 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/device.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,268 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/device_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,269 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+01 Mar 2024 13:56:57,269 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+01 Mar 2024 13:56:57,269 TestNG-tests-1 - Loading template for "spark/partials/device.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+01 Mar 2024 13:56:57,271 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/author.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,272 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/author_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,273 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+01 Mar 2024 13:56:57,273 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+01 Mar 2024 13:56:57,273 TestNG-tests-1 - Loading template for "spark/partials/author.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+01 Mar 2024 13:56:57,275 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/log.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,276 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/log_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,281 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+01 Mar 2024 13:56:57,283 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+01 Mar 2024 13:56:57,283 TestNG-tests-1 - Loading template for "spark/partials/log.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+01 Mar 2024 13:56:57,286 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,286 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,287 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+01 Mar 2024 13:56:57,287 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+01 Mar 2024 13:56:57,287 TestNG-tests-1 - Loading template for "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+01 Mar 2024 13:56:57,379 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,380 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,381 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+01 Mar 2024 13:56:57,381 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+01 Mar 2024 13:56:57,381 TestNG-tests-1 - Loading template for "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+01 Mar 2024 13:56:57,384 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed); will try to load it.
+01 Mar 2024 13:56:57,385 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_AU.ftl"): Not found
+01 Mar 2024 13:56:57,386 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+01 Mar 2024 13:56:57,386 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+01 Mar 2024 13:56:57,387 TestNG-tests-1 - Loading template for "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+01 Mar 2024 13:56:57,424 TestNG-tests-1 - Running tests on environment: null
+01 Mar 2024 13:56:57,424 TestNG-tests-1 - No env is given ..... hence running it on QA
+01 Mar 2024 13:56:57,425 TestNG-tests-1 - browser name is : chrome
+01 Mar 2024 13:57:05,989 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa_en_AU.ftl"): Not found
+01 Mar 2024 13:57:05,990 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+01 Mar 2024 13:57:05,991 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+01 Mar 2024 13:57:05,991 TestNG-tests-4 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl hasn't changed.
+01 Mar 2024 13:57:05,992 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables_en_AU.ftl"): Not found
+01 Mar 2024 13:57:05,993 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+01 Mar 2024 13:57:05,993 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+01 Mar 2024 13:57:05,994 TestNG-tests-4 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl hasn't changed.
+01 Mar 2024 13:57:06,001 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,001 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+01 Mar 2024 13:57:06,002 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+01 Mar 2024 13:57:06,003 TestNG-tests-4 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl hasn't changed.
+01 Mar 2024 13:57:06,004 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,005 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+01 Mar 2024 13:57:06,005 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+01 Mar 2024 13:57:06,006 TestNG-tests-4 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl hasn't changed.
+01 Mar 2024 13:57:06,007 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,007 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+01 Mar 2024 13:57:06,008 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+01 Mar 2024 13:57:06,008 TestNG-tests-4 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl hasn't changed.
+01 Mar 2024 13:57:06,010 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,010 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+01 Mar 2024 13:57:06,011 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+01 Mar 2024 13:57:06,011 TestNG-tests-4 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl hasn't changed.
+01 Mar 2024 13:57:06,012 TestNG-tests-4 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,013 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,013 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+01 Mar 2024 13:57:06,014 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+01 Mar 2024 13:57:06,014 TestNG-tests-4 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl hasn't changed.
+01 Mar 2024 13:57:06,016 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,016 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+01 Mar 2024 13:57:06,017 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+01 Mar 2024 13:57:06,017 TestNG-tests-4 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl hasn't changed.
+01 Mar 2024 13:57:06,019 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,020 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+01 Mar 2024 13:57:06,020 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+01 Mar 2024 13:57:06,021 TestNG-tests-4 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl hasn't changed.
+01 Mar 2024 13:57:06,022 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,024 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+01 Mar 2024 13:57:06,025 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+01 Mar 2024 13:57:06,026 TestNG-tests-4 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl hasn't changed.
+01 Mar 2024 13:57:06,029 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,030 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+01 Mar 2024 13:57:06,031 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+01 Mar 2024 13:57:06,031 TestNG-tests-4 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl hasn't changed.
+01 Mar 2024 13:57:06,038 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,039 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+01 Mar 2024 13:57:06,039 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+01 Mar 2024 13:57:06,040 TestNG-tests-4 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl hasn't changed.
+01 Mar 2024 13:57:06,041 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,042 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+01 Mar 2024 13:57:06,042 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+01 Mar 2024 13:57:06,043 TestNG-tests-4 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl hasn't changed.
+01 Mar 2024 13:57:06,045 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,045 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+01 Mar 2024 13:57:06,046 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+01 Mar 2024 13:57:06,046 TestNG-tests-4 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl hasn't changed.
+01 Mar 2024 13:57:06,048 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,048 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+01 Mar 2024 13:57:06,049 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+01 Mar 2024 13:57:06,049 TestNG-tests-4 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl hasn't changed.
+01 Mar 2024 13:57:06,051 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,052 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+01 Mar 2024 13:57:06,053 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+01 Mar 2024 13:57:06,053 TestNG-tests-4 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl hasn't changed.
+01 Mar 2024 13:57:06,055 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,055 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+01 Mar 2024 13:57:06,056 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+01 Mar 2024 13:57:06,056 TestNG-tests-4 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl hasn't changed.
+01 Mar 2024 13:57:06,057 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,058 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+01 Mar 2024 13:57:06,059 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+01 Mar 2024 13:57:06,059 TestNG-tests-4 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl hasn't changed.
+01 Mar 2024 13:57:06,074 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,074 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+01 Mar 2024 13:57:06,075 TestNG-tests-4 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+01 Mar 2024 13:57:06,075 TestNG-tests-4 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl hasn't changed.
+01 Mar 2024 13:57:06,077 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_AU.ftl"): Not found
+01 Mar 2024 13:57:06,078 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+01 Mar 2024 13:57:06,079 TestNG-tests-4 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+01 Mar 2024 13:57:06,079 TestNG-tests-4 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed): using cached since jar:file:/C:/Users/venka/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl hasn't changed.
+01 Mar 2024 13:57:06,186 TestNG-tests-2 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,186 TestNG-tests-2 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,187 TestNG-tests-2 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,187 TestNG-tests-2 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,187 TestNG-tests-2 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,187 TestNG-tests-2 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,187 TestNG-tests-2 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,188 TestNG-tests-2 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,189 TestNG-tests-2 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,189 TestNG-tests-2 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,189 TestNG-tests-2 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,190 TestNG-tests-2 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,201 TestNG-tests-2 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,203 TestNG-tests-2 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,204 TestNG-tests-2 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,205 TestNG-tests-2 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,205 TestNG-tests-2 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,206 TestNG-tests-2 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,206 TestNG-tests-2 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,210 TestNG-tests-2 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:06,211 TestNG-tests-2 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,030 TestNG-tests-1 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,030 TestNG-tests-1 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,033 TestNG-tests-1 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,033 TestNG-tests-1 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,033 TestNG-tests-1 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,034 TestNG-tests-1 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,034 TestNG-tests-1 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,034 TestNG-tests-1 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,034 TestNG-tests-1 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,035 TestNG-tests-1 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,035 TestNG-tests-1 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,035 TestNG-tests-1 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,037 TestNG-tests-1 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,037 TestNG-tests-1 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,038 TestNG-tests-1 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,038 TestNG-tests-1 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,038 TestNG-tests-1 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,038 TestNG-tests-1 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,038 TestNG-tests-1 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,043 TestNG-tests-1 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,043 TestNG-tests-1 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,045 TestNG-tests-3 - "spark/spark.spa.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,046 TestNG-tests-3 - "commons/commons-variables.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,047 TestNG-tests-3 - "commons/commons-macros.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,047 TestNG-tests-3 - "spark/macros/attributes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,047 TestNG-tests-3 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,047 TestNG-tests-3 - "spark/macros/recurse_nodes.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,048 TestNG-tests-3 - "spark/macros/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,048 TestNG-tests-3 - "spark/macros/attr-common.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,048 TestNG-tests-3 - "spark/partials/head.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,048 TestNG-tests-3 - "commons/commons-inject-css.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,048 TestNG-tests-3 - "spark/partials/navbar.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,051 TestNG-tests-3 - "spark/partials/sidenav.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,054 TestNG-tests-3 - "spark/partials/test.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,054 TestNG-tests-3 - "spark/partials/exception.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,055 TestNG-tests-3 - "spark/partials/category.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,055 TestNG-tests-3 - "spark/partials/device.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,056 TestNG-tests-3 - "spark/partials/author.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,056 TestNG-tests-3 - "spark/partials/log.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,056 TestNG-tests-3 - "spark/partials/dashboard.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,059 TestNG-tests-3 - "spark/partials/scripts.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
+01 Mar 2024 13:57:08,059 TestNG-tests-3 - "commons/commons-inject-js.ftl"("en_AU", UTF-8, parsed) cached copy not yet stale; using cached.
